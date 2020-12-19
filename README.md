@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Shruti currently a Software Engineer and a passionate Roboticist! 
+
 <!--
 **shruti1210/shruti1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
