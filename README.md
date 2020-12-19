@@ -3,8 +3,9 @@
 <p align='center'>
 I'm Shruti! A passionate roboticist, writer and software engineer by profession. 
 </p>
-<p align='center'>Feel free to reach out in case any queries via <a href="https://www.linkedin.com/in/shrutisharma1210/">Linkedin</a>.</p>
-<p align='center'>or on my <a href="shruti12101997@gmail.com">email</a>.</p>
+<p align='center'>Feel free to reach out in case any queries via <a href="https://www.linkedin.com/in/shrutisharma1210/">Linkedin</a>
+  or on my <a href="shruti12101997@gmail.com">email</a>.</p>
+
 
 
 
