@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am Shruti and I am currently working as a Software Engineer. I am a passionate Roboticist and a writer. For my technical works, you can find the repositories here, and feel free to reach out in case any queries vai linkedin or email - shruti12101997@gmail.com. 
+I am Shruti and I am currently working as a Software Engineer. I am a passionate Roboticist and a writer. For my technical works, you can find the repositories here, and feel free to reach out in case any queries via <a href="https://www.linkedin.com/in/shrutisharma1210/"Linkedin</a>
+
+or email - shruti12101997@gmail.com. 
 In case you want to read my writings find me here - https://shruti.page/. 
 
 <!--
