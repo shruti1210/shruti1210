@@ -1,13 +1,9 @@
-### Hi there 👋
 <h1 align='center'> Hello! :wave:</h1>
 <p align='center'>
 I'm Shruti! A passionate roboticist, writer and software engineer by profession. 
 </p>
 <p align='center'>Feel free to reach out in case any queries via <a href="https://www.linkedin.com/in/shrutisharma1210/">Linkedin</a>
-  or via <a href="shruti12101997@gmail.com">:email:</a>.</p>
-
-
-
+  or via <a href="mailto:shruti12101997@gmail.com">email</a>.</p>
 
 <!--
 **shruti1210/shruti1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
