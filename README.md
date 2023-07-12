@@ -1,6 +1,6 @@
 <p align='center'>
 Hello! :wave:, I'm Shruti!<br />
-  <br />A passionate roboticist and a software engineer by profession.  I have recently started exploring neuroscience and its intersection with robotics.<br /> <br />
+  <br />A passionate roboticist and a software engineer by profession.  I am working wth NIH over the summers and studying Mechanical Engineering at Columbia University.<br /> <br />
   I love to write, feel free to read my poems on my <a href="https://shruti.page/">blog</a>. 
 </p>
 <p align='center'>Feel free to reach out in case any queries via <a href="https://www.linkedin.com/in/shrutisharma1210/">Linkedin</a>
